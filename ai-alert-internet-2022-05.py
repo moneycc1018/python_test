@@ -2,7 +2,7 @@ import pandas as pd
 import datetime as dt
 import json
 
-result = {}
+result = {}#output結果
 nowTime = dt.datetime.now()#現在時間
 
 class execute():
